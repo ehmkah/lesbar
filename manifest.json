@@ -1,7 +1,7 @@
 {
   "name": "lesbares Deutsch",
   "description": "Erleichtert das Lesen einer Webseite, indem LeserInnen wieder zu Lesern, Spieler*innen, wieder zu Spielern werden.",
-  "version": "0.1",
+  "version": "0.2",
   "permissions": [
     "activeTab"
   ],
