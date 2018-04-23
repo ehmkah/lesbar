@@ -1,9 +1,9 @@
-Hello my Englishspeaking world, this my worakround for a German language problem. 
+Hello my Englishspeaking world, this my workaround for a German language problem. 
 To understand the benefits of the workaround you need to learn German - no joke :-)
 
 # Lesbares Deutsch
 
-Mein Experiment. Ersetzt als Chromeplugin alle gendergerechten Worte durch die Normalform. 
+Mein Experiment. Ersetzt als Chrome- oder Firefoxplugin alle gendergerechten Worte durch die Normalform. 
 Die Diktator*innen werden wieder zu Diktatoren.
 
 ## Zum Hintergrund
@@ -24,7 +24,7 @@ https://www.nzz.ch/feuilleton/der-erfolg-des-steht-in-den-sternen-gendergerechte
 
 Naja, jedenfalls probiere ich jetzt aus, ob es technisch möglich ist, wieder die einfache Form zu bekommen.
 Inspiriert hat mich der  geniale Schwobenproxy (http://unimut.fsk.uni-heidelberg.de/schwob.html) und
-die Lösung als Chromeplugin, war erschreckend einfach. Mal sehen, wie weit sie trägt.
+die Lösung als Chrome- und Firefoxplugin, war erschreckend einfach. Mal sehen, wie weit sie trägt.
 
 # Ausprobieren
 
@@ -38,7 +38,4 @@ Egal ob Bug oder Meinung, einfach einen Issue eröffnen.
 
 # Development
 
-Es handelt sich um ein Chrome Plugin.
-Alles in Javascript geschrieben.
-Alle Datei in ein Zip legen und dann im Chrome Browser installieren. 
-Vorher in den Development Modus wechseln
+Je nach Browser siehe die Readme.adoc in chrome und firefox
