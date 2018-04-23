@@ -3,16 +3,16 @@
   "manifest_version": 2,
   "description": "Erleichtert das Lesen einer Webseite, indem LeserInnen wieder zu Lesern, Spieler*innen, wieder zu Spielern werden.",
   "version": "0.2",
-
-  "icons": {
-    "48": "logo.png"
+  "permissions": [
+    "activeTab"
+  ],
+  "background": {
+    "scripts": ["background.js"]
   },
 
-  "content_scripts": [
-    {
-      "matches": ["<all_urls>"],
-      "js": ["callScript.js"]
-    }
-  ]
+  "browser_action": {
+    "default_title": "Make this page red",
+    "default_icon": "logo.png"
+  }
 
 }
