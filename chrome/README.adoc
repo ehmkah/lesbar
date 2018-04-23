@@ -4,3 +4,9 @@
 
 Im Chrome Webstore :
 https://chrome.google.com/webstore/detail/lesbares-deutsch/odjibgmjffkfkjppihbegklnagomoogm?hl=de
+
+== Development
+
+Alles in Javascript geschrieben.
+Alle Datei in ein Zip legen und dann im Chrome Browser installieren. 
+Vorher in den Development Modus wechseln
