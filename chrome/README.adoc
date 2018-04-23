@@ -1,1 +1,6 @@
-Implementierung für chrome
+= Enthält die Implementierung für Chrome
+
+== Installation
+
+Im Chrome Webstore :
+https://chrome.google.com/webstore/detail/lesbares-deutsch/odjibgmjffkfkjppihbegklnagomoogm?hl=de
