@@ -2,5 +2,4 @@
 
 == Installation
 
-* noch keine URL
-
+* https://addons.mozilla.org/en-US/firefox/addon/lesbares-deutsch
