@@ -7,3 +7,10 @@
 == Development
 
 * Siehe auch https://developer.mozilla.org/de/Add-ons/WebExtensions/Deine_erste_WebErweiterung
+
+== Release
+
+* neue Version im manifest.json eintragen
+* tag ziehen
+* Dateien: `background.js`, `callScript.js`, `logo.png`, `manifest.json` in ein Zip packen
+* hochladen

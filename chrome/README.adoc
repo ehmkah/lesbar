@@ -12,3 +12,11 @@ Alle Datei in ein Zip legen und dann im Chrome Browser installieren.
 Vorher in den Development Modus wechseln.
 Siehe auch https://developer.chrome.com/extensions/getstarted
 
+== Releasing
+
+* neue Version im manifest.json eintragen
+* tag ziehen
+* Dateien: `background.js`, `callScript.js`, `logo.png`, `manifest.json` in ein Zip packen
+* hochladen
+
+
