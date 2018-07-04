@@ -38,6 +38,6 @@ Egal ob Bug oder Meinung, einfach einen Issue eröffnen.
 
 # Development
 
-Je nach Browser siehe die `chrome/README.adoc` und `firefox/README.adoc`.
+Je nach Browser siehe `chrome/README.adoc` und `firefox/README.adoc`.
 Tests liegen im Verzeichnis `test`.
  `test/README.adoc` beschreibt, wie die Tests gestartet werden.
