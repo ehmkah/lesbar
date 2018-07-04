@@ -3,3 +3,7 @@
 == Installation
 
 * https://addons.mozilla.org/en-US/firefox/addon/lesbares-deutsch
+
+== Development
+
+* Siehe auch https://developer.mozilla.org/de/Add-ons/WebExtensions/Deine_erste_WebErweiterung
