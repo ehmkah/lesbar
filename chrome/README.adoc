@@ -17,6 +17,7 @@ Siehe auch https://developer.chrome.com/extensions/getstarted
 * neue Version im manifest.json eintragen
 * tag ziehen
 * Dateien: `background.js`, `callScript.js`, `logo.png`, `manifest.json` in ein Zip packen
+** `zip lesbaresDeutsch.zip background.js callScript.js manifest.json logo.png`
 * hochladen
 
 
