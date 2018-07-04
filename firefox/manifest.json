@@ -2,7 +2,7 @@
   "name": "Lesbares Deutsch",
   "manifest_version": 2,
   "description": "Erleichtert das Lesen einer Webseite, indem gendergerechte Sprache wieder zur normalen Sprache wird. Also: LeserInnen werden wieder zu Lesern, Spieler*innen, wieder zu Spielern.",
-  "version": "0.2",
+  "version": "0.3",
   "permissions": [
     "activeTab"
   ],
