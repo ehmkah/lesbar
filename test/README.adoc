@@ -1,0 +1,12 @@
+= Enthält die Tests für die Addons
+
+== Ablauf
+
+* Datei test.html im Browser über Intellij öffnen (Wichtig nicht als Datei öffnen sondern über einen Webserver, das passiert innerhalb von IntelliJ, wenn man dort auf das entsprechende Browsersymbol klickt)
+* lesbarDeutsch Button anklicken
+* auf pruefen klicken
+* jeder erfolglose Test öffnet ein alert Fenster
+
+== Testfälle hinzufügen
+
+* Datei test.html erweitern und Ablauf starten
