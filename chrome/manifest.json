@@ -1,6 +1,6 @@
 {
   "name": "lesbares Deutsch",
-  "description": "Erleichtert das Lesen, indem gendergerechte Sprache zur normalen Sprache wird. Also: LeserInnen werden wieder zu Lesern, Spieler*innen, wieder zu Spielern.",
+  "description": "Verwandelt gendergerechte Sprache in lesbares Deutsch. Also: LeserInnen werden wieder zu Lesern, Spieler*innen, wieder zu Spielern.",
   "version": "0.3",
   "permissions": [
     "activeTab"
