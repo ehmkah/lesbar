@@ -9,4 +9,6 @@ https://chrome.google.com/webstore/detail/lesbares-deutsch/odjibgmjffkfkjppihbeg
 
 Alles in Javascript geschrieben.
 Alle Datei in ein Zip legen und dann im Chrome Browser installieren. 
-Vorher in den Development Modus wechseln
+Vorher in den Development Modus wechseln.
+Siehe auch https://developer.chrome.com/extensions/getstarted
+
