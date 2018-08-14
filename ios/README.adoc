@@ -1,0 +1,13 @@
+= Enthält die Implementierung für Firefox
+
+== Installation
+
+* wird noch geliefert
+
+== Development
+
+* irgendein ios action extesion
+
+== Release
+
+* wird noch beschrieben
