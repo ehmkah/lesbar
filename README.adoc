@@ -36,6 +36,11 @@ die Lösung als Chrome- und Firefoxplugin, war erschreckend einfach. Mal sehen, 
 
 Egal ob Bug oder Meinung, einfach einen Issue eröffnen.
 
+# Alternativen
+
+http://binnenibegone.awardspace.com/ - Habe ich leider erst später gefunden.
+Ersetzt automatisch die gendergerechte Sprache. Etwas komplexer.
+
 # Development
 
 Je nach Browser siehe `chrome/README.adoc` und `firefox/README.adoc`.
