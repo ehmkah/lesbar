@@ -14,7 +14,7 @@ var x = x.replace(/r\*in/g, "r");
 var x = x.replace(/\*innen/g, "en");
 
 // und noch ein paar verrückte Dinge
-var x = x.replace(/jede\*r/g, "jeder");
+var x = x.replace(/ede\*r/g, "eder");
 var x = x.replace(/eine\*r/g, "einer");
 var x = x.replace(/sie\*er/g, "er");
 
