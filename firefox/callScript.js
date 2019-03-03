@@ -1,5 +1,12 @@
 var x = document.documentElement.innerHTML;
 
+var element = "<span title='Ersetzt durch lesbar' style='text-decoration: underline;color:darkviolet;'>"
+
+var x = x.replace(/([a-zA-ZöüäÄÖÜß!\*]*Innen)/g, element+"$1</span>");
+var x = x.replace(/([a-zA-ZöüäÄÖÜß!\*]*\*innen)/g, element+"$1</span>");
+var x = x.replace(/([a-zA-ZöüäÄÖÜß!\*]*In)/g, element+"$1</b>");
+
+
 // entfernen des Innen erst die speziellen, dann die allgemeinen
 var x = x.replace(/ztInnen/g, "zte");
 var x = x.replace(/torInnen/g, "toren");
