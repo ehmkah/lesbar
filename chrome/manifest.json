@@ -1,7 +1,7 @@
 {
   "name": "lesbares Deutsch",
   "description": "Verwandelt gendergerechte Sprache in lesbares Deutsch. Also: LeserInnen werden wieder zu Lesern, Spieler*innen, wieder zu Spielern.",
-  "version": "0.4",
+  "version": "0.5",
   "permissions": [
     "activeTab"
   ],
